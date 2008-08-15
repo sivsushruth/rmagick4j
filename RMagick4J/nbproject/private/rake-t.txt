@@ -1,1 +1,0 @@
-(in /Users/serabe/NetBeansProjects/RMagick4J)
